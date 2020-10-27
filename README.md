@@ -1,4 +1,4 @@
-luci-theme-opentopd
+#luci-theme-opentopd
 原作者 https://github.com/sirpdboy/luci-theme-opentopd
 
 
@@ -27,4 +27,4 @@ $ make menuconfig
 系统 -> 系统 -> 语言和界面
 主题处选择 'opentopd'，右下角“保存&应用”
 按F5刷新浏览器
- 
+
