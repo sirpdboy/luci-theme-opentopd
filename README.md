@@ -90,9 +90,11 @@ opentopd是一款基于luci-theme-material构建,使用HTML5、CSS3编写的Luci
     # 编译固件
     make package/luci-app-opentopd/{clean,compile} V=s
  ```
-![xm1](doc/登陆页面.jpg)
-![xm2](doc/实时监控.jpg)
-![xm3](doc/手机画面.jpg)
+![xm1](doc/登陆页面2.jpg)
+![xm2](doc/预览界面.jpg)
+![xm3](doc/高级设置.jpg)
+![xm3](doc/网络共享.jpg)
+![xm3](doc/合并图.jpg)
 
 ## 说明 [![](https://img.shields.io/badge/-说明-F5F5F5.svg)](#说明-)
 
