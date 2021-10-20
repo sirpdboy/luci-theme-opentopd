@@ -28,6 +28,13 @@ opentopd是一款基于luci-theme-material构建,使用HTML5、CSS3编写的Luci
 
 更新日志：
 
+2021.10.19： opentopd 1.3.9
+
+            1.优化UI，更精致。
+	    
+	    2.修复LAN口修改配置收缩的BUG。
+	    
+	    3.优化登陆窗口，手机上登陆更美观。
 
 2021.10.19： opentopd 1.3.8  
 
