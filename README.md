@@ -36,7 +36,7 @@ opentopd是一款基于luci-theme-material构建,使用HTML5、CSS3编写的Luci
 	    
 	    3.优化登陆窗口，手机上登陆更美观。
 
-2021.10.19： opentopd 1.3.8  
+2021.10.18： opentopd 1.3.8  
 
             1.取消自动更新壁纸。
 	    
