@@ -28,6 +28,12 @@ opentopd是一款基于luci-theme-material构建,使用HTML5、CSS3编写的Luci
 
 更新日志：
 
+2021.11.10： opentopd 1.4.0
+
+             1.  加入在线动态壁纸功能
+	     
+	     2.  自定义壁纸目录在/www/luci-static/opentopd/background/ 拷入图片后随机选择一张。
+
 2021.10.19： opentopd 1.3.9
 
             1.优化UI，更精致。
